@@ -15,6 +15,7 @@ const moment = require('moment-timezone')
 const { exec } = require('child_process')
 const { databases, imune } = require('./src/wppimune')
 const kagApi = require('@kagchi/kag-api')
+const { nethunter } = require('./src/nethunter')
 const fetch = require('node-fetch')
 const { pack } = require('./src/pack')
 const { termux } = require('./src/termux')
@@ -173,6 +174,11 @@ async function starts() {
 			if (isCmd && isGroup) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;32mEXEC\x1b[1;37m]', time, color(command), 'from', color(sender.split('@')[0]), 'in', color(groupName), 'args :', color(args.length))
 			if (!isCmd && isGroup) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;31mRECV\x1b[1;37m]', time, color('Message'), 'from', color(sender.split('@')[0]), 'in', color(groupName), 'args :', color(args.length))
 			switch(command) {
+				case 'criador':
+					teks = `*Nome do criador* : Brizaloka Br!z@l0k@ \n*Número do criador*: Wa.me/+557187645787 \n*Prefixo do bot*: ${prefix} \n*Github do criador: https://encurta.eu/qPW8krpH`
+					buffer = await getBuffer(`https://i.pinimg.com/736x/21/85/e8/2185e8b624f7599fb57bd2890837b41b.jpg`)
+					client.sendMessage(from, buffer, image, {caption: teks})
+				break
 				case 'help':
 				case 'menu':
 					client.sendMessage(from, help(prefix), text)
@@ -180,6 +186,10 @@ async function starts() {
 				case 'pack':
 					buffer = await getBuffer(`https://i.imgur.com/5ksFWsr.png`)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: pack(prefix)})
+				break
+				case 'nethunter':
+					buffer = await getBuffer(`https://i.imgur.com/uj6dP9Y.png`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: nethunter()})
 				break
 				case 'termux':
 					buffer = await getBuffer(`https://i.imgur.com/NMk9sC4.png`)
@@ -361,27 +371,36 @@ async function starts() {
 						buffer = await getBuffer(res.url)
 						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Toma aqui seu lolicon, aproveitei e liguei pra PF :)'})
 					})
-					break
-					case 'nsfwloli':
-					if(isNsfw)
-					{
-						if (isGroupAdmins) {
-							loli.getNSFWLoli(async (err, res) => {
-							if (err) return reply('❌ *ERROR* ❌')
-							buffer = await getBuffer(res.url)
-							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Tu é punheteiro em mlk, toma aq e me deixa'})
-							})
-						}
-						else if(!isGroup)
-						{
-							loli.getNSFWLoli(async (err, res) => {
-							if (err) return reply('❌ *ERROR* ❌')
-							buffer = await getBuffer(res.url)
-							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Tu é punheteiro em mlk, toma aq e me deixa'})
-							})
-						}
-						else return reply('❌*SOMENTE NO PV E ADMS ESTE COMANDO ESTA DISPONIVEL*❌')
+				break
+				case 'shota':
+					loli.getSFWShota(async (err, res) => {
+					if(err) return reply('❌ *ERROR* ❌')
+					buffer = await getBuffer(res.url)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Hmmmm , então quer dizer que o senhor gosta de shotas'})
+
+					})
+				break
+
+				case 'nsfwloli':
+				if(isNsfw)
+				{
+					if (isGroupAdmins) {
+						loli.getNSFWLoli(async (err, res) => {
+						if (err) return reply('❌ *ERROR* ❌')
+						buffer = await getBuffer(res.url)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Tu é punheteiro em mlk, toma aq e me deixa'})
+						})
 					}
+					else if(!isGroup)
+					{
+						loli.getNSFWLoli(async (err, res) => {
+						if (err) return reply('❌ *ERROR* ❌')
+						buffer = await getBuffer(res.url)
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Tu é punheteiro em mlk, toma aq e me deixa'})
+						})
+					}
+					else return reply('❌*SOMENTE NO PV E ADMS ESTE COMANDO ESTA DISPONIVEL*❌')
+				}
 					else return reply('❌*COMANDO DESATIVADO*❌')
 					break
 				/*case 'nsfwloli':
@@ -538,7 +557,7 @@ async function starts() {
 						reply('Transmissão de sucesso')
 					}
 					break
-        case 'promote':
+        		case 'promote':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
 					if (!isBotGroupAdmins) return reply(mess.only.Badmin)
