@@ -310,7 +310,7 @@ async function starts() {
 							.toFormat('webp')
 							.save(ran)*/
 					} else {
-						reply(`Envie a imagem com o adesivo de legenda ${prefix} ou a tag de imagem que foi enviada`)
+						reply(`Envie a imagem com o adesivo de legenda ${prefix} ou a tag de imagem que foi enviada, se for video o maximo é de 10 segundo de duração`)
 					}
 					break
 				case 'gtts':
