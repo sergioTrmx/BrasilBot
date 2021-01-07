@@ -100,7 +100,12 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 Comandos: '${prefix}simih'
 Função: ative o modo simi no grupo
 Como Usar: '${prefix}simih 1' para ativar o modo simih e '${prefix}simih 0' para desativar o modo simih
-Obs: Este comando pode ser usado se você for um administrador do grupo `
+Obs: Este comando pode ser usado se você for um administrador do grupo 
+
+🔰 Como instalar o bot?? 🔰 
+
+https://fir3.net/ELR5uKC
+`
 }
 
 exports.help = help
