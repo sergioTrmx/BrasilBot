@@ -75,7 +75,7 @@ Como Usar: '${prefix}textph [pt1] [pt2]'
 
 Comando: '${prefix}text3d'
 Função: converte o texto em imagem 3d
-Como Usar: '${prefix}textph [pt1] [pt2]'
+Como Usar: '${prefix}textph [pt1]'
 
 Comando: '${prefix}wolflogo'
 Função: converte o texto na imagem com um lobo
