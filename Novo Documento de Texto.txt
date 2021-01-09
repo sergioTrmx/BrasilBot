@@ -1,0 +1,2 @@
+#!bin/bash
+node /data/data/com.termux/files/home/Brizas-bot/.index.js

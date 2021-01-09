@@ -30,6 +30,29 @@ Função: imagens aleatórias de meme [indo]
 Comando: '${prefix}loli'
 Função: imagens aleatórias de loli
 
+Comando: '${prefix}nekoanime'
+Função: imagens aleatórias de neko
+
+Comando '${prefix}randomanime'
+Função: imagem aleatoria de anime
+
+Comando '${prefix}randomhentai'
+Função: imagem aleatoria de hentai
+
+Comando: '${prefix}nsfwblowjob'
+Função: gifs de blowjobs de hentai
+
+Comando: '${prefix}nsfwneko'
+Função: imagem de hentai neko
+
+Comando: '${prefix}nsfwtrap'
+Função: imagem de hentai trap
+
+Comando: '${prefix}nsfw'
+Função: Ativa o modo hentai no grupo
+Como Usar: '${prefix}nsfw 1' para ativar o modo nsfw e '${prefix}nsfw 0' para desativar o modo nsfw
+Obs: Este comando pode ser usado se você for um administrador do grupo 
+
 Comando: '${prefix}nsfwloli'
 Função: imagens aleatórias de hentai
 Como Usar: basta enviar o comando
@@ -42,6 +65,30 @@ Como Usar: apenas envie o comando
 Comando: '${prefix}pack'
 Função: Enviar um pacote de links +18
 Como Usar: Basta enviar o comando
+
+
+🔰 Comandos de texto 🔰 
+
+Comando: '${prefix}textph'
+Função: converte o texto na logo da pornhub
+Como Usar: '${prefix}textph [pt1] [pt2]'
+
+Comando: '${prefix}text3d'
+Função: converte o texto em imagem 3d
+Como Usar: '${prefix}textph [pt1] [pt2]'
+
+Comando: '${prefix}wolflogo'
+Função: converte o texto na imagem com um lobo
+Como Usar: '${prefix}textph [pt1] [pt2]'
+
+Comando: '${prefix}lionlogo'
+Função: converte o texto na imagem com um leao
+Como Usar: '${prefix}textph [pt1] [pt2]'
+
+Comando: '${prefix}glitch'
+Função: converte o texto em imagem com estilo glitch
+Como Usar: '${prefix}textph [pt1] [pt2]'
+
 
 🔰 Outros Comandos 🔰 
 
@@ -87,7 +134,7 @@ Função: Mostra uma lista de comandos básicos do termux
 
 Comandos: '${prefix}welcome'
 Função: Ativa o modo boas-vindas do grupo
-Como Usar: '${prefix}welcome 1' para ativar o modo welcome e '${prefix}simih 0' para desativar o modo welcome
+Como Usar: '${prefix}welcome 1' para ativar o modo welcome e '${prefix}welcome 0' para desativar o modo welcome
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
 Comandos: '${prefix}linkgroup'
