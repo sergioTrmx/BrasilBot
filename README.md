@@ -31,6 +31,8 @@ npm start
 
 [Doações](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
 
+---
+
 # Contato
 
 [Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
