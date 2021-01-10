@@ -69,9 +69,6 @@ Como Usar: Basta enviar o comando
 
 🔰 Comandos de texto 🔰 
 
-Comando: '${prefix}destrava'
-Função: Envia várias destravas, caso tenha travazap no gp
-
 Comando: '${prefix}textph'
 Função: converte o texto na logo da pornhub
 Como Usar: '${prefix}textph [pt1] | [pt2]'
