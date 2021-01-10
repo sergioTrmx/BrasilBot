@@ -71,24 +71,55 @@ Como Usar: Basta enviar o comando
 
 Comando: '${prefix}textph'
 Função: converte o texto na logo da pornhub
-Como Usar: '${prefix}textph [pt1] [pt2]'
+Como Usar: '${prefix}textph [pt1] | [pt2]'
+
+Comando: '${prefix}traduz'
+Função: traduz seu texto em outra lingua
+Como Usar: '${prefix}traduz [la] [texto]'
+Exemplo: '${prefix}traduz pt hello my friends'
+
+Comando: '${prefix}idioma'
+Função: lista todos os códigos de idioma
 
 Comando: '${prefix}text3d'
 Função: converte o texto em imagem 3d
-Como Usar: '${prefix}textph [pt1]'
+Como Usar: '${prefix}text3d [pt1]'
 
 Comando: '${prefix}wolflogo'
-Função: converte o texto na imagem com um lobo
-Como Usar: '${prefix}textph [pt1] [pt2]'
+Função: converte o texto em imagem com o logo de um lobo
+Como Usar: '${prefix}wolflogo [pt1] | [pt2]'
 
 Comando: '${prefix}lionlogo'
-Função: converte o texto na imagem com um leao
-Como Usar: '${prefix}textph [pt1] [pt2]'
+Função: converte o texto em imagem com o logo de um leao
+Como Usar: '${prefix}lionlogo [pt1] | [pt2]'
 
 Comando: '${prefix}glitch'
 Função: converte o texto em imagem com estilo glitch
-Como Usar: '${prefix}textph [pt1] [pt2]'
+Como Usar: '${prefix}glitch [pt1] | [pt2]'
 
+Comando:'${prefix}ninjalogo'
+Função: converte o texto em imagem com o logo de um ninja
+Como Usar:'${prefix}ninjalogo [pt1] | [pt2]'
+
+Comando: '${prefix}neontec'
+Função: converte o texto em imagem com estilo neon tecnology
+Como Usar: '${prefix}neontec [pt1]'
+
+Comando:'${prefix}neonligth'
+Função: converte o texto em imagem com estilo neon ligth
+Como Usar:'${prefix}neonligth [pt1]'
+
+Comando:'${prefix}snow'
+Função: converte o texto em imagem com estilo em snow'
+Como Usar:'${prefix}snow [pt1]'
+
+Comando:'${prefix}blood'
+Função: converte o texto em imagem com estilo blood
+Como Usar:'${prefix}blood [pt1]'
+
+Comando:'${prefix}dropwater'
+Função: converte o texto em imagem com estilo dropwater
+Como Usar:'${prefix}dropwater [pt1]'
 
 🔰 Outros Comandos 🔰 
 
@@ -96,6 +127,11 @@ Comando: '${prefix}gtts'
 Função: converter texto em fala / áudio
 Como Usar: '${prefix}gtts [la] [texto]'
 Exemplo: '${prefix}gtts ja Oni-chan'
+
+Comando: '${prefix}signome'
+Função: Mostra o significado do seu nome
+Como usar:'${prefix}signome [nome]'
+Exemplo:'${prefix}signome ian'
 
 Comando: '${prefix}nethunter'
 Função: Mostra um tutorial de como ter um emulador de kali linux no seu termux
