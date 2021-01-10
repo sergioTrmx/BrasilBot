@@ -6,8 +6,8 @@
 # Índice
 - [O que é?](#O-que-é-?)
 - [Instalação](#Instalação)
-- [Donate](#Donate)
 - [Contatos](#Contato)
+- [Desbloqueio ou bloqueio do nsfwloli](#Desbloqueio-ou-bloqueio-do-nsfwloli)
 
 # O que é ?
 
@@ -27,10 +27,13 @@ bash install.sh
 npm start
 ```
 ---
+# Desbloqueio ou bloqueio do nsfwloli
 
-#Donate
+Para desbloquear é bem simples, basta mudar a váriavel isNsfw para true(ativar) ou false(desativar), ela fica localizada no index.js
 
-[Doações pra o projeto continuar](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
+<h1>
+    <img src = "https://ik.imagekit.io/tiu4ccatpmq/Screenshot_30_UWgsYvdvI.png">
+</h1>
 
 # Contato
 
