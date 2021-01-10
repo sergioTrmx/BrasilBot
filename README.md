@@ -6,6 +6,7 @@
 # Índice
 - [O que é?](#O-que-é-?)
 - [Instalação](#Instalação)
+- [Donate](#Donate)
 - [Contatos](#Contato)
 
 # O que é ?
@@ -26,6 +27,10 @@ bash install.sh
 npm start
 ```
 ---
+
+#Donate
+
+[Doações pra o projeto continuar](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
 
 # Contato
 
