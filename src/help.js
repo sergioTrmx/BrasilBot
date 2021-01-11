@@ -69,6 +69,9 @@ Como Usar: Basta enviar o comando
 
 🔰 Comandos de texto 🔰 
 
+Comando: '${prefix}frase'
+Função: Envia uma frase filosofica
+
 Comando: '${prefix}textph'
 Função: converte o texto na logo da pornhub
 Como Usar: '${prefix}textph [pt1] | [pt2]'
@@ -188,13 +191,13 @@ Função: ative o modo simi no grupo
 Como Usar: '${prefix}simih 1' para ativar o modo simih e '${prefix}simih 0' para desativar o modo simih
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
-.
-
 🔰 Como instalar o bot?? 🔰 
 
 https://fir3.net/ELR5uKC
 
+🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
+https://enrt.eu/kN7iGtl4 (so de entrar no link ajuda)
 
 `
 }
