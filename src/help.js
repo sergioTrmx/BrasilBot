@@ -120,11 +120,14 @@ Comando:'${prefix}blood'
 Função: converte o texto em imagem com estilo blood
 Como Usar:'${prefix}blood [pt1]'
 
-Comando:'${prefix}dropwater'
+Comando:'${prefix}dpwater'
 Função: converte o texto em imagem com estilo dropwater
 Como Usar:'${prefix}dropwater [pt1]'
 
 🔰 Outros Comandos 🔰 
+
+Comandos: '${prefix}termux'
+Função: Mostra uma lista de comandos básicos do termux
 
 Comando: '${prefix}gtts'
 Função: converter texto em fala / áudio
@@ -168,9 +171,6 @@ Exemplo: '${prefix}setprefix ?'
 
 🔰 Comandos de Grupos 🔰 
 
-Comandos: '${prefix}termux'
-Função: Mostra uma lista de comandos básicos do termux
-
 Comandos: '${prefix}welcome'
 Função: Ativa o modo boas-vindas do grupo
 Como Usar: '${prefix}welcome 1' para ativar o modo welcome e '${prefix}welcome 0' para desativar o modo welcome
@@ -178,12 +178,12 @@ Obs: Este comando pode ser usado se você for um administrador do grupo
 
 Comandos: '${prefix}linkgroup'
 Função: pegue o link do grupo
-Como Usar: just send the command
+Como Usar: basta enviar o comando
 Obs: só pode ser usado quando o bot se torna admin, e quem enviar o comando é admin! 
 
 Comandos: '${prefix}tagall'
 Função: marca todos os membros do grupo, incluindo administradores também
-Como Usar: apenas envie o comando
+Como Usar: basta enviar o comando
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
 Comandos: '${prefix}simih'
