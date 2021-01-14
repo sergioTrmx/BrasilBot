@@ -67,6 +67,22 @@ Obs: o comando .loli e .nsfwloli .shota foram removidos devido a o servidor nao 
 
 🔰 Comandos de texto 🔰 
 
+Comando: '${prefix}overtext'
+Função: converte texto em um nick de personagem do overwatch
+Como Usar: '${prefix}loltext [texto]'
+
+Comano: '${prefix}cstext'
+Função: converte texto em um nickname no CSGO
+Como Usar: '${prefix}cstext [texto]'
+
+Comando: '${prefix}warfacetext'
+Função: convert texto em um nickname no warface
+Como Usar: '${prefix}warfacetext [texto]'
+
+Comando: '${prefix}pubgtext'
+Função: comverte texto na logo da pubg
+Como Usar: '${prefix}pubgtext [pt1] | [pt2] '
+
 Comando: '${prefix}frase'
 Função: Envia uma frase filosofica
 
