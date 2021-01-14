@@ -27,11 +27,17 @@ Função: imagens aleatórias de meme [indo]
 
 🔰 Comandos +18 🔰
 
-Comando: '${prefix}loli'
-Função: imagens aleatórias de loli
-
 Comando: '${prefix}nekoanime'
 Função: imagens aleatórias de neko
+
+Comando: '${prefix}randomkiss'
+Função: imagens aleatórias de beijo
+
+Comando: '${prefix}randomhug'
+Função: imagens aleatórias de abraço
+
+Comando: '${prefix}randomshota'
+Função: imagens aleatórias de shota
 
 Comando '${prefix}randomanime'
 Função: imagem aleatoria de anime
@@ -53,19 +59,11 @@ Função: Ativa o modo hentai no grupo
 Como Usar: '${prefix}nsfw 1' para ativar o modo nsfw e '${prefix}nsfw 0' para desativar o modo nsfw
 Obs: Este comando pode ser usado se você for um administrador do grupo 
 
-Comando: '${prefix}nsfwloli'
-Função: imagens aleatórias de hentai
-Como Usar: basta enviar o comando
-Obs: Funciona apenas no pv do bot ou se for administrador do grupo
-
-Comando: '${prefix}shota'
-Função: imagens aleatórias de shotas(lolis masculinas)
-Como Usar: apenas envie o comando
-
 Comando: '${prefix}pack'
 Função: Enviar um pacote de links +18
 Como Usar: Basta enviar o comando
 
+Obs: o comando .loli e .nsfwloli .shota foram removidos devido a o servidor nao estar funcionando
 
 🔰 Comandos de texto 🔰 
 
@@ -75,6 +73,42 @@ Função: Envia uma frase filosofica
 Comando: '${prefix}textph'
 Função: converte o texto na logo da pornhub
 Como Usar: '${prefix}textph [pt1] | [pt2]'
+
+Comando: '${prefix}shadow'
+Função: converte o texto em uma imagem com sombras
+Como Usar: '${prefix}shadow [texto]'
+
+Comando: '${prefix}glowmetal'
+Função: converte o texto em uma imagem com efeito glowmetal
+Como Usar: '${prefix}glowmetal [texto]'
+
+Comando: '${prefix}harrytext'
+Função: converte o texto em uma imagem com efeito harry potter
+Como Usar: '${prefix}harrytext [texto]'
+
+Comando: '${prefix}woodblock'
+Função: converte o texto em uma imagem com efeito desenhado em madeira
+Como Usar: '${prefix}woodblock [texto]'
+
+Comando: '${prefix}ocean'
+Função: converte texto em uma imagem no oceano
+Como Usar: '${prefix}ocean [texto]'
+
+Comando: '${prefix}coffe'
+Função: converte texto em uma imagem no copo de café
+Como Usar: '${prefix}coffe [texto]'
+
+Comando: '${prefix}lovepaper'
+Função: converte texto em uma imagem em um coração de papel
+Como Usar: '${prefix}lovepaper [texto]'
+
+Comando: '${prefix}8bits'
+Função: converte texto em uma imagem em 8bits
+Como Usar: '${prefix}8bits [pt1] | [pt2]'
+
+Comando: '${prefix}bpaper'
+Função: converte texto em uma imagem em papel
+Como Usar: '${prefix}bpaper [texto]'
 
 Comando: '${prefix}traduz'
 Função: traduz seu texto em outra lingua
