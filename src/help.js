@@ -27,6 +27,8 @@ Função: imagens aleatórias de meme [indo]
 
 🔰 Comandos +18 🔰
 
+ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comando novamente
+
 Comando: '${prefix}nekoanime'
 Função: imagens aleatórias de neko
 
@@ -66,6 +68,8 @@ Como Usar: Basta enviar o comando
 Obs: o comando .loli e .nsfwloli .shota foram removidos devido a o servidor nao estar funcionando
 
 🔰 Comandos de texto 🔰 
+
+ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comando novamente
 
 Comando: '${prefix}overtext'
 Função: converte texto em um nick de personagem do overwatch
