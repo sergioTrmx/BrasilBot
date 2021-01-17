@@ -174,13 +174,17 @@ Comando:'${prefix}blood'
 Função: converte o texto em imagem com estilo blood
 Como Usar:'${prefix}blood [pt1]'
 
-Comando:'${prefix}dpwater'
+Comando:'${prefix}dwater'
 Função: converte o texto em imagem com estilo dropwater
 Como Usar:'${prefix}dropwater [pt1]'
 
 🔰 Outros Comandos 🔰 
 
-Comandos: '${prefix}termux'
+Comando: '${prefix}gimage'
+Função: Pesquisa no google imagens
+Como Usar: '${prefix}gimage [texto]'
+
+Comando: '${prefix}termux'
 Função: Mostra uma lista de comandos básicos do termux
 
 Comando: '${prefix}gtts'
