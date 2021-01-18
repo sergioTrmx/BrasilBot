@@ -24,7 +24,10 @@ O Brizas-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBa
 git clone https://github.com/ianmsfvenom/Brizas-bot
 cd Brizas-bot
 bash install.sh
+# caso queira iniciar so uma vez
 npm start
+# caso queira reinicar automaticamente toda vez que o bot cair
+sh start.sh
 ```
 ---
 # Donate
