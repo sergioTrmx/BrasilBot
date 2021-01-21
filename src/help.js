@@ -67,6 +67,50 @@ Como Usar: Basta enviar o comando
 
 Obs: o comando .loli e .nsfwloli .shota foram removidos devido a o servidor nao estar funcionando
 
+🔰 Comandos de audio e música 🔰 
+
+Comando: '${prefix}bebelean'
+Musica: LEAN - Superiority x Towy x Osquel x Beltito x Sammy x Falsetto
+
+Comando: '${prefix}yamete'
+Música: Yamete kudasai
+
+Comando: '${prefix}tuebaiano'
+Música: 777-666 (Baiano Edition) - Lil Jappz (@caiojapa71)
+
+Comando: '${prefix}cunouno'
+Música: VOU COMER SEU C* NO UNO - CLIPE OFICIAL - MC Renanzin (Clipe Oficial)
+
+Comando: '${prefix}pneublind'
+Música: CHEIRO DE BLINDING LIGHTS | LEOD
+
+Comando: '${prefix}urss'
+Música: HINO DA U.R.S.S
+
+Comando: '${prefix}polishcow'
+Música: POLISH COW
+
+Comando: '${prefix}amgdamuie'
+Música: Amiga Da Minha Mulher - Seu Jorge
+
+Comando: '${prefix}dstartnowpneu'
+Música: CHEIRO DE DON'T START NOW OU CHEIRO DE TAMBORZINHO | LEOD
+
+Comando:'${prefix}bcupernbam'
+Música: NEGO BAM - BUTTERCUP | LEOD
+
+Comando: '${prefix}wthisdown'
+Música: SoulChef - Write This Down (Feat. Nieve)
+
+Comando '${prefix}hentaigirl'
+Música: MTC-S3RL
+
+Comando: '${prefix}diekpop'
+Música: Rapxis - Kpooper me Cancelou (Prod. H'erick)
+
+Comando: '${prefix}ilovedarla'
+Música: Rapxis & Gohann - i Love Darla (prod. Astrobeattz)
+
 🔰 Comandos de texto 🔰 
 
 ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comando novamente
