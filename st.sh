@@ -2,6 +2,6 @@
 
 while :
 do
-npm start
-sleep 1
+    npm start
+    sleep 1
 done
