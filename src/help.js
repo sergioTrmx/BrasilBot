@@ -2,6 +2,9 @@ const help = (prefix) => {
 	return `💎 Comandos do BrizasBot 💎  
 🔰 Principais Comandos 🔰 
 
+Comando: '${prefix}botvip'
+Função: Mostra como você pode ter o brizas bot versão exclusiva para seu grupo ou individual😉
+
 Comando: '${prefix}sticker' ou '${prefix}stiker'
 Função: converter imagem / gif / vídeo em adesivo
 Como Usar: responder imagem / gif / vídeo ou enviar imagem / gif / vídeo com legenda 

@@ -1,4 +1,4 @@
-const vipbot = prefix => {
+const vipbot = (prefix) => {
     return `💎 Brizas-bot vip exclusivo💎
 🔰 *TABELA DE PREÇOS* 🔰
 
