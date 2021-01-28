@@ -87,6 +87,10 @@ ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comand
 Comando: '${prefix}textcomands'
 Função: lista os comandos de texto
 
+Comando: '${prefix}repeat'
+Função: Repete o que falar
+Como Usar: '${prefix}repeat [texto]'
+
 🔰 Outros Comandos 🔰 
 
 Comando: '${prefix}gimage'

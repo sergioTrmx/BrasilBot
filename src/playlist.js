@@ -35,6 +35,9 @@ Música: SoulChef - Write This Down (Feat. Nieve)
     
 Comando '${prefix}hentaigirl'
 Música: MTC-S3RL
+
+Comando '${prefix}hentaigirl2'
+Música: S3RL-MTC2
     
 Comando: '${prefix}diekpop'
 Música: Rapxis - Kpooper me Cancelou (Prod. H'erick)
@@ -55,8 +58,6 @@ Comando: '${prefix}yougirlistenme'
 Música: Rapxis - Sua Mina Me Escuta 🎧 (Prod. Gohann)
 
 Comando: '${prefix}goticrabuda'
-Música: Rapxis - Gótica Rabuda (Feat. Libiuz)
-
-`
+Música: Rapxis - Gótica Rabuda (Feat. Libiuz)`
 }
 exports.playlist = playlist
