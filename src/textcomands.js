@@ -2,11 +2,23 @@ const textcomands = (prefix) => {
     return `🔰 Comandos de texto 🔰 
 
 ATENÇÃO: Os servidores estão instaveis então caso não envie, mande o comando novamente
-    
+
+Comando:  '${prefix}woodboard'
+Função: Converte texto em imagem estilo wood board
+Como Usar: '${prefix}woodboard [texto]'
+
+Comando: '${prefix}undgrasstext'
+Função: Converte texto em imagem estilo under the grass
+Como Usar: '${prefix}undgrasstext [texto]'
+
 Comando: '${prefix}overtext'
 Função: converte texto em um nick de personagem do overwatch
-Como Usar: '${prefix}loltext [texto]'
-    
+Como Usar: '${prefix}overtext [texto]'
+
+Comando: '${prefix}wdheartext'
+Função: Converte texto em imagem estilo wood heart
+Como Usar: '${prefix}wdheartext [texto]'
+
 Comano: '${prefix}cstext'
 Função: converte texto em um nickname no CSGO
 Como Usar: '${prefix}cstext [texto]'
