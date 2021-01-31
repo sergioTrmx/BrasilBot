@@ -20,6 +20,16 @@ Como Usar: responder a sticker
 Comando:'${prefix}criador'
 Função: Mostra as informações do criador do bot
 
+🔰 Rede Sociais do Bot 🔰 
+
+Instagram: https://enrt.eu/F1UDSAFC
+
+Telegram: https://enrt.eu/HoE4T (obs: Telegram do bot ainda não esta em funcionamento, favor esperar)
+
+Whatsapp: https://Wa.me/+18026764068
+
+
+
 🔰 Comandos de Memes 🔰  
 
 Comando: '${prefix}meme'
@@ -163,7 +173,9 @@ https://fir3.net/ELR5uKC
 
 🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
-https://enrt.eu/kN7iGtl4 (so de entrar no link ajuda)
+https://enrt.eu/kN7iGtl4  
+
+(so de entrar no link ajuda O^O)
 
 `
 }

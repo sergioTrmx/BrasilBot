@@ -9,17 +9,17 @@ const pack = (prefix) => {
 
 🔰 COCONUTKITTY(ONLY FANS)7.69GB: https://encurta.eu/U2I5🔰
 
-🔰 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 🔰
+🔰 Belle delphine : https://encurta.eu/kgrp 🔰
 
-🔰 Pack1: https://photos.app.goo.gl/phyRpNFLcAtsknfJ7 🔰
+🔰 Pack1: https://encurta.eu/5iRVPz 🔰
 
-🔰 Kitty kum: https://photos.app.goo.gl/gNxLbJHGVzeWY9iS9 🔰
+🔰 Kitty kum: https://encurta.eu/lvh7YcTn 🔰
 
-🔰 Misaki Your Waifu: https://photos.app.goo.gl/M9nyHdonAJu5GRjZ9 🔰
+🔰 Misaki Your Waifu: https://encurta.eu/FObiTNG 🔰
 
-🔰 pack: https://photos.app.goo.gl/SrogbCbnanL2PJQn7 🔰
+🔰 pack: https://encurta.eu/aReJ5OU 🔰
 
-🔰 Love Lilah : https://photos.app.goo.gl/TBbkjGGdAVHjPFt5A 🔰
+🔰 Love Lilah : https://encurta.eu/Vbn3Sp 🔰
 `
 }
 exports.pack = pack
