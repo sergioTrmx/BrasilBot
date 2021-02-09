@@ -6,6 +6,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}undgrasstext* <text>
 ║ ❯ *${p}overtext* <text>
 ║ ❯ *${p}wdheartext* <text>
+║ ❯ *${p}whatis* <text>
 ║ ❯ *${p}cstext* <text>
 ║ ❯ *${p}warfacetext* <text>
 ║ ❯ *${p}pubgtext* <t1> | <t2>
