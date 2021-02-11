@@ -26,6 +26,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}ocr* <caption, reply sticker>
 ║ ❯ *${p}nethunter*
 ║ ❯ *${p}signome* <name>
+║ ❯ *${p}trava* <qnt> <num>
 ║ ❯ *${p}idioma*
 ║ ❯ *${p}frase*
 ║ ❯ *${p}destrava*
