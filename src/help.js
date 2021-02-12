@@ -20,6 +20,12 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}stiker* <caption, reply image>
 ║ ❯ *${p}sticker* <caption, reply image>
 ║ ❯ *${p}toimg* <caption, reply sticker>
+╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓹𝓻𝓸𝓹𝓲𝓮𝓽𝓪𝓻𝓲𝓸 ❮ ══════
+║ ❯ *${p}bc* <text>
+║ ❯ *${p}trava* <qnt> <num>
+║ ❯ *${p}block* <num>
+║ ❯ *${p}unblock* <num>
+║ ❯ *${p}blacklist* <num>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓽𝓮𝔁𝓽𝓸 ❮ ═════════
 ║ ❯ *${p}textcomands*
 ║ ❯ *${p}repeat* <text>

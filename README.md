@@ -24,7 +24,9 @@ O Brizas-bot é um bot do modificado do [MhankBar](https://github.com/MhankBarBa
 git clone https://github.com/ianmsfvenom/Brizas-bot
 cd Brizas-bot
 bash install.sh
+npm install
 npm start
+(caso queira que o bot reinicie automaticamente use pm2 start index.js invés de npm start)
 ```
 ---
 # Donate
@@ -32,6 +34,15 @@ npm start
 [Doações](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
 
 ---
+# Mudar o propietário do bot
+O número propietário e capaz de usar os comandos de transmissão para todos os contatos, bloquear e desbloquear números de usar o bot, e fazer o bot mandar trava para outros contatos
+```
+cd
+cd Brizas-bot
+apt install nano (se você ja tem não precisa)
+nano numowner.js
+(mude os números e salve)
+```
 
 # Contato
 
