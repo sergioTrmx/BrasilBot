@@ -34,6 +34,7 @@
     "fake-useragent": "^1.0.1",
     "fluent-ffmpeg": "^2.1.2",
     "g-i-s": "^2.1.6",
+    "node-open-geocoder": "^4.0.1",
     "imgbb-uploader": "^1.1.0",
     "lolis.life": "^4.0.0",
     "moment-timezone": "^0.5.32",
