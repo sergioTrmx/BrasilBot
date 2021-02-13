@@ -2,6 +2,14 @@ const playlist = (p) => {
     return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖛𝖎𝖓𝖉𝖔𝖘 𝕻𝖑𝖆𝖞𝖑𝖎𝖘𝖙 𝖉𝖔
 💎 ▁▂▃༻𝕭𝖗𝖎𝖟𝖆𝖘-𝖇𝖔𝖙 2.0༺▃▂▁ 💎
 ╔════ ❯ 𝓹𝓵𝓪𝔂𝓵𝓲𝓼𝓽 ❮ ══════════
+║ ❯ *${p}kalinka*
+║ Nightcore - Kalinka [Калинка]
+║ ❯ *${p}moskau*
+║ Nightcore - Moskau
+║ ❯ *${p}katyusha*
+║ [HARDBASS] Katyusha (Cosmowave Remix)
+║ ❯ *${p}rasputin*
+║ Nightcore - Rasputin (Remix) (For Mother Russia)
 ║ ❯ *${p}bebelean*
 ║ LEAN - Superiority x Towy x Osquel x Beltito x Sammy x Falsetto
 ║ ❯ *${p}yamete*
