@@ -22,6 +22,7 @@
   "dependencies": {
     "qrcode": "^1.4.4",
     "morsify": "^2.4.0",
+    "fast-speedtest-api": "^0.3.2",
     "youtube-mp3-downloader": "^0.7.6",
     "youtube-video-id": "^0.0.3",
     "@adiwajshing/baileys": "^3.4.1",
