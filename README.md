@@ -43,6 +43,18 @@ apt install nano (se você ja tem não precisa)
 nano numowner.js
 (mude os números e salve)
 ```
+---
+# Ativar o comando unbanwpp
+O bot manda uma mensagem para o suporte do whatsapp via e-mail então basta apenas fazer esse comando
+```
+cd
+cd Brizas-bot
+nano emailacc.js 
+(agora digite o email e senha entre '')
+``` 
+Obs: Apenas funciona o e-mail com o domínio do gmail
+
+---
 
 # Contato
 

@@ -1,16 +1,16 @@
 #!/usr/bin/bash
 
-apt-get update
-apt-get upgrade
-apt-get install nodejs
-apt-get install npm
-apt-get install libwebp
-apt-get install ffmpeg
-apt-get install wget
-apt-get install tesseract
-pkg install shc
-wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
+apt-get update -y
+apt-get upgrade -y
+apt-get install nodejs -y
+apt-get install npm -y
+apt-get install libwebp -y
+apt-get install ffmpeg -y
+apt-get install wget -y
+apt-get install tesseract -y
+apt-get install graphicsmagick -y
+apt-get install imagemagick -y
 npm install
 
-echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
+echo "Hmmm tudo certo pode dar npm start, escanear o código e se divirta com o bot :)"
 
