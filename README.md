@@ -49,7 +49,7 @@ O bot manda uma mensagem para o suporte do whatsapp via e-mail então basta apen
 ```
 cd
 cd Brizas-bot
-nano emailacc.js 
+nano emailacc.js
 (agora digite o email e senha entre '')
 ``` 
 Obs: Apenas funciona o e-mail com o domínio do gmail
