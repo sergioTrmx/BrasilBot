@@ -1,44 +1,53 @@
 const databases = (prefix) => {
 
-return `🔰 Databases de travas 🔰
-
-DB NESCAU V8 DIAMOND: https://enrt.eu/0o2tqQ
-
-𝐃𝐁 𝐕5 𝐁𝐘 𝐆𝐑𝐈𝐍𝐆𝐎 𝐌𝐃𝐙🔥: https://enrt.eu/8aZDGC
-
-DATABASE ELMØ V10: https://enrt.eu/KqBGh
-
-DATABASE DO DAVIZINMAKER: https://enrt.eu/e8AaU1w
-`
+return `
+╔════ ❯ 𝓭𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼 ❮ ════════
+║ ❯ ⏤͟͟͞͞𝘿𝘽 𝘿𝙍𝘼𝙂𝙊𝙉 𝙑❷🐉
+║ https://enrt.eu/ysGKIED3
+║
+║ ❯ 🥶𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄 - 𝐊𝐀𝐑𝐋𝐋𝐔𝐒 𝐕𝟔🥶
+║ https://enrt.eu/bI5mZ
+║
+║ ❯ DATABASE NESCAU V12
+║ https://enrt.eu/06Xbl
+║
+║ ❯ 𝐃𝐁 𝐌𝐙𝐂 𝐕1
+║ https://enrt.eu/9DQ1mnm
+╚═════════════════════════`
 }
 
 exports.databases = databases
 
 const imune = (prefix) => {
-return `🔰 Whatsapp imunes 🔰
-WA ARACHY v3: https://www.mediafire.com/file/4k09vymbh8dzni3/%25E2%259C%25AF%25E2%259C%259E%25EA%2599%25B3%25E1%25AE%259F%25E2%2584%259C%25E1%25AE%259F%25E2%2584%25AD%25E2%2584%258C%25E2%25B2%25AE_%25E1%259C%25A0%25E2%259D%25B8%25EA%2599%25B3%25E2%259C%259E%25E2%259C%25AF.apk/file
-
-FSOCIETY v2: http://www.mediafire.com/file/62bbqipjmtacobc/%2540mafiadostutors_%25E2%2582%25A9%25CE%25BB_%25D4%25B2%25D1%2595%25E0%25B9%258F%25CF%2582%25C9%25A8%25D1%2594%25CF%2584%25CE%25B3__v%25E2%2591%25A1_IMUNE.apk/file
-
-MINATO v8: https://suaurl.com/e57887
-
-TERREMOTO v22: https://suaurl.com/210d49
-
-GAARA v5: https://suaurl.com/dde464
-
-IMORTAL v19: https://suaurl.com/225875
-
-Souza Wa v5: https://suaurl.com/8dbb5e
-
-DIURNO v9: http://www.mrtutors.com.br/IDKFr
-
-FLEX v7: https://suaurl.com/b18e0e
-
-PESADELO v7: https://suaurl.com/ddf8a6
-
-FÊNIX v14: https://suaurl.com/145ff5
-
-FROST v17: https://suaurl.com/2eb5cc`
+return `
+╔════ ❯ 𝔀𝓹𝓹 𝓲𝓶𝓾𝓷𝓮𝓼 ❮ ════════
+║ ❯ DELTA YO EXTREME IMUNE APK: 
+║ https://enrt.eu/3e2V
+║
+║ ❯ VΞGΞTΔ ᮃ: 
+║ https://enrt.eu/2pjg
+║
+║ ❯ 𝐏𝐄𝐓𝐀𝐋𝐀𝐙: 
+║ https://enrt.eu/GLJpXPAO
+║
+║ ❯ ᬊ͜͡✪𝑺𝒉𝒂𝒅𝒐𝒘 𝐖𝚨⁹⁹⁹⁺.𝑴𝒂𝒕𝒉𝒆𝒖𝒔 𝑹𝒆𝒎𝒐𝒅𝒔 -1: 
+║ https://enrt.eu/LR6vm
+║
+║ ❯ ♔【𝐃𝐄𝐔𝐒⛧𝐌𝐀𝐃⛧𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐕3】♞: 
+║ https://enrt.eu/9645Y9
+║
+║ ❯ 𝐓 𝐒 𝐔 𝐊 𝐘_r:
+║  https://enrt.eu/L9AJ4E
+║
+║ ❯ ↯𝐈𝐌𝚯𝐑𝐓∆𝐋⛧𝐗𝐗𝐕𝐈ᬏ᭄: 
+║ https://enrt.eu/41JA
+║
+║ ❯ Sϟ𝚣𝚣𝚎 v5 by BERTH MODER: 
+║ https://enrt.eu/sRZU5S
+║
+║ ❯ ͢𝐗𝐗𝐗 𝀈 𝐂𝐇𝐈𝐊𝐄𝐍
+║ https://enrt.eu/LieRR
+╚═════════════════════════`
 }
 
 exports.imune = imune
