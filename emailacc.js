@@ -1,18 +1,16 @@
 //E-MAIL GMAIL SOMENTE
-const username = ''
+const username = 'brizalokis2001@gmail.com'
 //SENHA DO E-MAIL
-const passw = ''
+const passw = 'BrizasBot'
 
+const textmail = (numban) => {
+    return `Meu número foi banido injustamente, eu uso ele para falar com meus clientes e amigos,
+estou perdendo várias vendas importantíssimas devido a esse problema logo agora que meu negócio começou a melhor,
+por favor me ajudem, eu uso essa plataforma há vários anos e não quero ser forçado a mudar para o telegram!
+Numero: ${numban}`
+}
+exports.textmail = textmail
 exports.username = username
 exports.passw = passw
 
 //ATENÇÃO AQUI E A CONTA DE E-MAIL DO BOT SE QUISER QUE O COMANDO unbanwpp FUNCIONE CRIE UMA CONTA GMAIL PARA O BOT
-
-//LOCALIZAÇÃO DO FFMPEG, EXCLUA ESSAS 2 BARRAS E O NOME DA PLATAFORMA QUE VOCÊ NÃO USAR
-
-// PC
-// const ffmpeg = 'C:/webm/bin/ffmpeg.exe'
-
-// TERMUX
-const ffmpeg = '/data/data/com.termux/files/usr/bin/ffmpeg'
-exports.ff = ffmpeg
