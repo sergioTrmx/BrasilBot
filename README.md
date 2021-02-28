@@ -39,13 +39,13 @@ nano numowner.js
 (ATENÇÃO MUDE APENAS OS NUMEROS ENTRE OS ACENTOS, NÃO REMOVA O @s.whatsapp.net)
 ```
 
-# Como botar ativar o unbanwpp
+# Como ativar o unbanwpp
 ```
 cd
 cd Brizas-bot
 nano emailacc.js
 
-(coloque um e-mail do gmail e se quiser mudar o email que manda para o suporte, tambem pode)
+(coloque um e-mail do gmail , a senha e se quiser mudar o email que manda para o suporte, tambem pode)
 ```
 ---
 # Donate
