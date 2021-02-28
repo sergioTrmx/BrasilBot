@@ -25,6 +25,7 @@ ATENÇÃO O BOT É FEITO PARA QUE TEM UM CERTO CONHECIMENTO EM JAVASCRIPT, NODEJ
 git clone https://github.com/ianmsfvenom/Brizas-bot
 cd Brizas-bot
 bash install.sh
+npm i
 npm start
 ```
 ---
