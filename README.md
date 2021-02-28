@@ -25,8 +25,27 @@ ATENÇÃO O BOT É FEITO PARA QUE TEM UM CERTO CONHECIMENTO EM JAVASCRIPT, NODEJ
 git clone https://github.com/ianmsfvenom/Brizas-bot
 cd Brizas-bot
 bash install.sh
-npm i
+npm install
 npm start
+```
+---
+# Como mudar o propietário do bot
+```
+cd
+cd Brizas-bot
+apt install nano
+nano numowner.js
+
+(ATENÇÃO MUDE APENAS OS NUMEROS ENTRE OS ACENTOS, NÃO REMOVA O @s.whatsapp.net)
+```
+
+# Como botar ativar o unbanwpp
+```
+cd
+cd Brizas-bot
+nano emailacc.js
+
+(coloque um e-mail do gmail e se quiser mudar o email que manda para o suporte, tambem pode)
 ```
 ---
 # Donate
