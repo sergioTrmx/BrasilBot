@@ -26,7 +26,16 @@ git clone https://github.com/ianmsfvenom/Brizas-bot
 cd Brizas-bot
 bash install.sh
 npm install
+
+(iniciar o bot manualmente)
 npm start
+
+(reiniciar o bot automaticamente em caso de crash)
+sh start.sh
+
+(ou)
+pm2 start index.js
+
 ```
 ---
 # Como mudar o propietário do bot
