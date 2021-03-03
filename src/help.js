@@ -23,6 +23,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}sticker* <caption, reply image>
 ║ ❯ *${p}toimg* <caption, reply sticker>
 ║ ❯ *${p}blacklist*
+║ ❯ *${p}wallpaper*
 ║ ❯ *${p}tomp3* <reply video>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓶𝓸𝓻𝓼𝓮 ❮ ═════════
 ║ ❯ *${p}txtomorse* <text>
@@ -52,7 +53,9 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}qrcodebb1* <text>
 ║ ❯ *${p}qrcodebr* <text>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓽𝓮𝔁𝓽𝓸 ❮ ═════════
-║ ❯ *${p}textcomands*
+║ ❯ *${p}cep* <cep>
+║ ❯ *${p}ddd* <ddd>
+║ ❯ *${p}textcmd*
 ║ ❯ *${p}repeat* <text>
 ║ ❯ *${p}ocr* <caption, reply sticker>
 ║ ❯ *${p}tiktokstalk* <tik tok name>
@@ -76,6 +79,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}randomshota*
 ║ ❯ *${p}randomkiss*
 ║ ❯ *${p}randomhug*
+║ ❯ *${p}randomcry*
 ║ ❯ *${p}nekoanime*
 ║ ❯ *${p}wait* <caption, reply image>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓹𝓸𝓻𝓷𝓸 ❮ ════════
