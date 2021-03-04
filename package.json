@@ -25,11 +25,13 @@
     "async": "^2.4.1",
     "axios": "^0.21.0",
     "cfonts": "^2.9.0",
+    "cpf": "^2.0.1",
     "escape-string-regexp": "^1.0.5",
     "fake-useragent": "^1.0.1",
     "fast-speedtest-api": "^0.3.2",
     "fluent-ffmpeg": "^2.1.2",
     "g-i-s": "^2.1.6",
+    "geoip-lite": "^1.4.2",
     "gm": "^1.23.1",
     "imagemagick": "^0.1.3",
     "imgbb-uploader": "^1.1.0",
@@ -50,6 +52,7 @@
     "tiktok-scraper": "^1.4.7",
     "translatte": "^2.5.8",
     "youtube-mp3-downloader": "^0.7.6",
+    "youtube-sr": "^4.0.3",
     "youtube-video-id": "^0.0.3"
   },
   "repository": {
