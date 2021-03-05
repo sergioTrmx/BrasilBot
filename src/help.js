@@ -20,12 +20,15 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}botvip*
 ║ ❯ *${p}info*
 ║ ❯ *${p}blocklist*
-║ ❯ *${p}stiker* <caption, reply image>
-║ ❯ *${p}sticker* <caption, reply image>
 ║ ❯ *${p}toimg* <caption, reply sticker>
 ║ ❯ *${p}blacklist*
 ║ ❯ *${p}wallpaper*
 ║ ❯ *${p}tomp3* <reply video>
+╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓼𝓽𝓲𝓬𝓴𝓮𝓻 ❮ ══════
+║ ❯ *${p}stiker* <caption, reply image>
+║ ❯ *${p}sticker* <caption, reply image>
+║ ❯ *${p}fstiker* <caption, reply image>
+║ ❯ *${p}fsticker* <caption, reply image>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓶𝓸𝓻𝓼𝓮 ❮ ═════════
 ║ ❯ *${p}txtomorse* <text>
 ║ ❯ *${p}morsetotxt* <text>
@@ -61,6 +64,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}ip* <ip>
 ║ ❯ *${p}ddd* <ddd>
 ║ ❯ *${p}textcmd*
+║ ❯ *${p}moddroid* <app name>
 ║ ❯ *${p}wame*
 ║ ❯ *${p}repeat* <text>
 ║ ❯ *${p}ocr* <caption, reply sticker>
