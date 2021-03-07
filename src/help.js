@@ -29,9 +29,33 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}sticker* <caption, reply image>
 ║ ❯ *${p}fstiker* <caption, reply image>
 ║ ❯ *${p}fsticker* <caption, reply image>
-╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓶𝓸𝓻𝓼𝓮 ❮ ═════════
+╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓬𝓸𝓭𝓲𝓰𝓸𝓼 ❮ ═════════
 ║ ❯ *${p}txtomorse* <text>
 ║ ❯ *${p}morsetotxt* <text>
+║ ❯ *${p}ebinary* <text>
+║ ❯ *${p}dbinary* <text>
+╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓪𝓾𝓭𝓲𝓸 ❮ ════════
+║ ❯ *${p}gtts* <la> <text>
+║ ❯ *${p}playlist*
+║ ❯ *${p}ytsearch* <video name youtube>
+║ ❯ *${p}ytmp4* <link youtube>
+║ ❯ *${p}ytmp3* <link youtube>
+╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓹𝓮𝓼𝓺𝓾𝓲𝓼𝓪 ❮ ═════════
+║ ❯ *${p}mob*
+║ ❯ *${p}minecraft*
+║ ❯ *${p}lofi*
+║ ❯ *${p}boy*
+║ ❯ *${p}girl*
+║ ❯ *${p}konpeko*
+║ ❯ *${p}tiktokstalk* <tik tok name>
+║ ❯ *${p}pinterest* <name>
+║ ❯ *${p}playstore* <app name>
+║ ❯ *${p}moddroid* <app name>
+║ ❯ *${p}pokemon*
+║ ❯ *${p}ip* <ip>
+║ ❯ *${p}ddd* <ddd>
+║ ❯ *${p}cep* <cep>
+║ ❯ *${p}signome* <name>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓹𝓻𝓮𝓿𝓲𝓼𝓪𝓸 ❮ ═════════
 ║ ❯ *${p}ship* <num1> <num2>
 ║ ❯ *${p}corno* <num1>
@@ -59,18 +83,13 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}qrcodebb1* <text>
 ║ ❯ *${p}qrcodebr* <text>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓽𝓮𝔁𝓽𝓸 ❮ ═════════
-║ ❯ *${p}cep* <cep>
 ║ ❯ *${p}cpf*
-║ ❯ *${p}ip* <ip>
-║ ❯ *${p}ddd* <ddd>
 ║ ❯ *${p}textcmd*
-║ ❯ *${p}moddroid* <app name>
+║ ❯ *${p}traduz* <la> <text>
 ║ ❯ *${p}wame*
 ║ ❯ *${p}repeat* <text>
 ║ ❯ *${p}ocr* <caption, reply sticker>
-║ ❯ *${p}tiktokstalk* <tik tok name>
 ║ ❯ *${p}nethunter*
-║ ❯ *${p}signome* <name>
 ║ ❯ *${p}idioma*
 ║ ❯ *${p}frase*
 ║ ❯ *${p}destrava*
@@ -79,12 +98,6 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓶𝓮𝓶𝓮 ❮ ════════
 ║ ❯ *${p}meme*
 ║ ❯ *${p}memeindo*
-╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓪𝓾𝓭𝓲𝓸 ❮ ════════
-║ ❯ *${p}gtts* <la> <text>
-║ ❯ *${p}playlist*
-║ ❯ *${p}ytsearch* <video name youtube>
-║ ❯ *${p}ytmp4* <link youtube>
-║ ❯ *${p}ytmp3* <link youtube>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓪𝓷𝓲𝓶𝓮 ❮ ═══════
 ║ ❯ *${p}randomanime*
 ║ ❯ *${p}randomshota*
@@ -102,6 +115,8 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}nsfw* <mode 1 or 0>
 ╠═════ ❯ 𝓬𝓶𝓭 𝓭𝓮 𝓰𝓻𝓾𝓹𝓸 ❮ ════════
 ║ ❯ *${p}welcome* <mode 1 or 0>
+║ ❯ *${p}fechargp*
+║ ❯ *${p}abrirgp*
 ║ ❯ *${p}linkgroup*
 ║ ❯ *${p}add* <number>
 ║ ❯ *${p}listadmin* 
@@ -111,6 +126,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}promote* <dial number>
 ║ ❯ *${p}demote* <dial number>
 ║ ❯ *${p}simih* <mode 1 or 0>
+║ ❯ *${p}antilink* <mode 1 or 0>
 ║ ❯ *${p}tagall*
 ║ ❯ *${p}tagall2*
 ║ ❯ *${p}tagall3*
@@ -119,7 +135,7 @@ return `𝕾𝖊𝖏𝖆𝖒 𝕭𝖊𝖒-𝖁𝖎𝖓𝖉𝖔𝖘 𝖆𝖔 𝕸
 ║ ❯ *${p}block* <text>
 ║ ❯ *${p}unblock* <text>
 ╠═════ ❯ 𝓰𝓲𝓽𝓱𝓾𝓫 ❮ ════════════
-║ ❯ *https://enrt.eu/GZwCeqNb*
+║ ❯ *https://suaurl.com/7537a5*
 ╚════════════════════`
 }
 
