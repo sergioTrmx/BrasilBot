@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "MhankBarBar",
+  "author": "BrizasBot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",

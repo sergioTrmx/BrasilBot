@@ -1,19 +1,19 @@
 const vipbot = (prefix) => {
-    return `💎 Brizas-bot vip exclusivo💎
-🔰 *TABELA DE PREÇOS* 🔰
+    return `✩｡:•.💎𝑩𝒓𝒊𝒛𝒂𝒔-𝒃𝒐𝒕 𝒆𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒐💎.•:｡✩
+★・・・★・・・ - ・・・★・・・★
 
-🎉Ensinar a baixar e manusear o bot pelo termux: R$: 35,00 🎉
+🎉𝐒𝐮𝐩𝐨𝐫𝐭𝐞 𝐞𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐨: _*R$40,00🎉*_
 
-🎉Adicionar comandos de imagens, contato, video, audio, texto, etc...: R$: 12,00 🎉
+🎉𝐀𝐝𝐢𝐜𝐢𝐨𝐧𝐚𝐫 𝐜𝐦𝐝: _*R$15,00🎉*_
 
-🎉Criar um número exclusivo para o bot: R$: 7,00 🎉
+🎉𝐂𝐫𝐢𝐚𝐫 𝐧𝐮́𝐦𝐞𝐫𝐨: _*R$7,00 🎉*_
 
-🎉 Código original descriptografado do bot: R$: 300,00 🎉
+🎉𝐂𝐨́𝐝𝐢𝐠𝐨 𝐨𝐫𝐢𝐠𝐢𝐧𝐚𝐥: _*R$300,00🎉*_
 
-🎉 Outros comandos: negocie com o criador pra ver se é possivel colocar 🎉
+🎉𝐎𝐮𝐭𝐫𝐨𝐬 𝐜𝐦𝐝𝐬: _*negocie com o criador🎉*_
 
-🔰 *MAIS INFORMAÇÕES* 🔰
+🔰 𝑴𝒂𝒊𝒔 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒄̧𝒐̃𝒆𝒔 🔰
 
-Dê: ${prefix}criador para negociar`
+_${prefix}𝐂𝐫𝐢𝐚𝐝𝐨𝐫 𝐩𝐚𝐫𝐚 𝐧𝐞𝐠𝐨𝐜𝐢𝐚𝐫_`
 }
 exports.vipbot = vipbot
