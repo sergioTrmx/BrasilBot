@@ -26,6 +26,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}info*
 ❁❧ *${p}ping*
 ❁❧ *${p}destrava*
+❁❧ *${p}terbot*
 ❁❧ *${p}botvip*
 ❁❧ *${p}blocklist*
 ❁❧ *${p}blacklist*
@@ -50,6 +51,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}lofi*
 ❁❧ *${p}boy*
 ❁❧ *${p}girl*
+❁❧ *${p}egirl*
+❁❧ *${p}eboy*
 ❁❧ *${p}pinterest* ❮name❯
 ❁❧ *${p}wallpaper*
 ❁❧ *${p}fuckmylife*
