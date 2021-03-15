@@ -185,6 +185,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}welcome* ❮1 or 0❯
 ❁❧ *${p}simih* ❮1 or 0❯
 ❁❧ *${p}antilink* ❮1 or 0❯
+❁❧ *${p}antifake* ❮1 or 0❯
 ❁❧ *${p}autoreply* ❮1 or 0❯
 ❁❧ *${p}antilinkhard* ❮1 or 0❯
 ❁❧ *${p}tagall* ❮num❯
@@ -204,6 +205,15 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
 ❁❧ *${p}vsf*
+❁❧ *${p}botfofo*
+❁❧ *${p}pedro*
+❁❧ *${p}botgostoso*
+❁❧ *${p}botviado*
+❁❧ *${p}botbaianor*
+❁❧ *${p}botfdp*
+❁❧ *${p}botputa*
+❁❧ *${p}botgay*
+❁❧ *${p}botcorno*
 ❁❧ *${p}vtmnc*
 ❁❧ *${p}bomdia*
 ❁❧ *${p}boatarde*
