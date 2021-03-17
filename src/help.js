@@ -57,6 +57,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}wallpaper*
 ❁❧ *${p}fuckmylife*
 ❁❧ *${p}waifu*
+❁❧ *${p}belle*
+❁❧ *${p}saycat*
 ❁❧ *${p}biblia*
 ❁❧ *${p}animesrc* ❮name anime❯
 ❁❧ *${p}mangasrc* ❮name anime❯
@@ -98,6 +100,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ▀▄▀▄▀▄ ༻🧾 𝚃𝚎𝚡𝚝𝚘 🧾༺ ▄▀▄▀▄▀
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
+❁❧ *${p}attp* ❮txt❯
 ❁❧ *${p}gpass* ❮letter qnt❯
 ❁❧ *${p}fakeidentity*
 ❁❧ *${p}cpf*
@@ -150,7 +153,18 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 
 ❁❧ *${p}ship* ❮num1❯ ❮num2❯
 ❁❧ *${p}corno* ❮num1❯
+❁❧ *${p}dado*
+❁❧ *${p}ranklindo*
+❁❧ *${p}rankfeio*
+❁❧ *${p}rankgado*
+❁❧ *${p}rankfofo*
+❁❧ *${p}rankotaku*
+❁❧ *${p}rankgay*
 ❁❧ *${p}gay* ❮num1❯
+❁❧ *${p}qi* ❮num1❯
+❁❧ *${p}seudia* ❮num1❯
+❁❧ *${p}feio* ❮num1❯
+❁❧ *${p}bv* ❮num1❯
 ❁❧ *${p}gado* ❮num1❯
 ❁❧ *${p}gostoso* ❮num1❯
 ❁❧ *${p}gostosa* ❮num1❯
