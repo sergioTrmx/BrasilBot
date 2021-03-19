@@ -91,6 +91,9 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 
 ❁❧ *${p}gtts* ❮la❯ ❮txt❯
 ❁❧ *${p}playlist*
+❁❧ *${p}lyrics*
+❁❧ *${p}ptlyrics*
+❁❧ *${p}play* ❮music name❯
 ❁❧ *${p}tomp3* ❮caption, reply video❯
 ❁❧ *${p}ytsearch* ❮name❯
 ❁❧ *${p}ytmp4* ❮yt url❯
@@ -100,6 +103,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ▀▄▀▄▀▄ ༻🧾 𝚃𝚎𝚡𝚝𝚘 🧾༺ ▄▀▄▀▄▀
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
+❁❧ *${p}gerarcc*
 ❁❧ *${p}attp* ❮txt❯
 ❁❧ *${p}gpass* ❮letter qnt❯
 ❁❧ *${p}fakeidentity*
@@ -116,7 +120,9 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}neon* ❮t1❯ | ❮t2❯
 ❁❧ *${p}sunset* ❮t1❯ | ❮t2❯
 ❁❧ *${p}gimage* ❮txt❯
+❁❧ *${p}pglass* ❮txt❯
 ❁❧ *${p}neonligth* ❮txt❯
+❁❧ *${p}coffe* ❮txt❯
 ❁❧ *${p}galaxywp* ❮txt❯
 ❁❧ *${p}whatis* ❮txt❯
 ❁❧ *${p}txt3d* ❮txt❯
@@ -187,6 +193,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
 ❁❧ *${p}fechargp*
+❁❧ *${p}mudardesc*
+❁❧ *${p}mudarnome*
 ❁❧ *${p}abrirgp*
 ❁❧ *${p}linkgroup*
 ❁❧ *${p}listadmin*
@@ -225,6 +233,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}botviado*
 ❁❧ *${p}botbaianor*
 ❁❧ *${p}botfdp*
+❁❧ *${p}botfeio*
 ❁❧ *${p}botputa*
 ❁❧ *${p}botgay*
 ❁❧ *${p}botcorno*
