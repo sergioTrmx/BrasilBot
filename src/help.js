@@ -1,5 +1,5 @@
 const help = (p, date, user, wame) => {
-return `┏━🔥࿗  S̸̲̓̏̿̑e̴̱̮̼͔̐͋̃́͝ṙ̸̨͇̥̰̻́́̈͜ǧ̸͈̦̗̖̆̿͌̄͑̓͠i̵͍̬͆ö̵̯͎͚̀̿̋͑͛͛̉̚-̷̛͙̹͓͈̺̯̥̿͛̃̓B̴̛̺͓̞͚͖̞̤͙͔́̽̏͒̈̐ő̶̡̧̬͖͓͎̪̻̝̒̂̆̂̄̒̕͘t̶̢̻̬́̄͝  ࿗🔥━┓
+return `┏━🔥࿗  Sergio-Bot  ࿗🔥━┓
 ║                                                           
 ║ _*🕐 𝐃𝐚𝐭𝐚 𝐞 𝐡𝐨𝐫𝐚: ${date} 🕐*_
 ║ _*🙂 𝐔𝐬𝐮𝐚́𝐫𝐢𝐨: ${user} 🙂*_
@@ -12,7 +12,7 @@ return `┏━🔥࿗  S̸̲̓̏̿̑e̴̱̮̼͔̐͋̃́͝ṙ̸̨͇̥̰̻́́̈͜
 ║
 ║
 ║ _🪀𝐆𝐫𝐮𝐩𝐨 𝐝𝐨 𝐰𝐩𝐩:_
-║ _*🌐https://chat.whatsapp.com/HXr3jVDApfQEeoA71ACnNa 🌐*_
+║ _*🌐https://chat.whatsapp.com/E8aXqWgIykkJzMZ6UqNDgd 🌐*_
 ║
 ║
 ┗════════════════════════┛ 
